@@ -2,6 +2,10 @@
 
 Generate random Color using seeder that you prefered.
 
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/0wx/seed-to-color.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wx/seed-to-color/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/0wx/seed-to-color.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wx/seed-to-color/alerts/)
+[![npm](https://img.shields.io/npm/v/seed-to-color?color=00df00)](https://npmjs.com/package/seed-to-color)
+
 ### installing:
 
 `yarn add seed-to-color`
