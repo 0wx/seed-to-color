@@ -1,0 +1,23 @@
+{
+  "name": "seed-to-color",
+  "version": "1.0.0",
+  "description": "Convert seed to HEX colour",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0wx/seed-to-color.git"
+  },
+  "keywords": [
+    "seed",
+    "color",
+    "generator",
+    "random"
+  ],
+  "author": "Gilang Ramadhan",
+  "bugs": {
+    "url": "https://github.com/0wx/seed-to-color/issues"
+  },
+  "homepage": "https://github.com/0wx/seed-to-color#readme"
+}
